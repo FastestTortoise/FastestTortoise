@@ -4,3 +4,6 @@ print(msg)
 
 msg = "Hey dad just adding these lines."
 print(msg)
+
+msg = "flabbergasted"
+print(msg)
